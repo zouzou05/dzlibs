@@ -1,5 +1,5 @@
 [DzLibs](http://dzlibs.io/) Project [![Build Status](https://travis-ci.org/01walid/dzlibs.png?branch=master)](https://travis-ci.org/01walid/dzlibs)
-===========================*
+===========================
 
 A community-driven Algerian index of reusable assets and libraries. A web app and a set of RESTful APIs to provide a platform for Algerian developers and designers to share reusable resources (Classes, Libraries, Vector files..etc) and easily access them. 
 
